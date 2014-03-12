@@ -1,0 +1,13 @@
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotCtrl.dll
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotIO.dll
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotView.dll
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotIO.pdb
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotView.pdb
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotCtrl.pdb
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.Properties.Resources.resources
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.csproj.GenerateResource.Cache
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.pdb

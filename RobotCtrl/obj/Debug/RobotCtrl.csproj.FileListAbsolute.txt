@@ -1,0 +1,5 @@
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotCtrl\bin\Debug\RobotCtrl.dll
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotCtrl\bin\Debug\RobotCtrl.pdb
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotCtrl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotCtrl\obj\Debug\RobotCtrl.dll
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotCtrl\obj\Debug\RobotCtrl.pdb
