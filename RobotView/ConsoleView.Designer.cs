@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.Label label2;
             this.switchView1 = new RobotView.SwitchView();
             this.ledView1 = new RobotView.LedView();
             this.switchView2 = new RobotView.SwitchView();
@@ -37,9 +38,9 @@
             this.ledView3 = new RobotView.LedView();
             this.ledView4 = new RobotView.LedView();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // switchView1
@@ -117,13 +118,12 @@
             // 
             // label2
             // 
-            this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label2.Location = new System.Drawing.Point(29, 24);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(20, 20);
-            this.label2.Text = "1";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.label2.ParentChanged += new System.EventHandler(this.label2_ParentChanged);
+            label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            label2.Location = new System.Drawing.Point(29, 24);
+            label2.Name = "label2";
+            label2.Size = new System.Drawing.Size(20, 20);
+            label2.Text = "1";
+            label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label3
             // 
@@ -150,7 +150,7 @@
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.ledView4);
             this.Controls.Add(this.ledView3);
@@ -177,7 +177,6 @@
         private LedView ledView3;
         private LedView ledView4;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
     }
