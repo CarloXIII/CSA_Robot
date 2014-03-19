@@ -3,8 +3,10 @@ C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\bin\Debug\
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\bin\Debug\RobotCtrl.dll
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\bin\Debug\RobotCtrl.pdb
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.LedView.resources
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.Resource.resources
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.SwitchView.resources
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.csproj.GenerateResource.Cache
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.dll
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.pdb
-C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.LedView.resources
-C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.csproj.GenerateResource.Cache
-C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.Resource.resources
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\RobotView\obj\Debug\RobotView.ConsoleView.resources

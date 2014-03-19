@@ -14,6 +14,27 @@ namespace TestConsole
         public Form1()
         {
             InitializeComponent();
+            RobotCtrl.RobotConsole robConsole = new RobotCtrl.RobotConsole();
+        }
+
+        private void ledView1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ledView2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ledView3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ledView4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

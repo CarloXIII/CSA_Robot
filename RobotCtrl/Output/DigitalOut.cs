@@ -54,8 +54,8 @@ namespace RobotCtrl
         {
             get { return data; }
             set 
-            { 
-                // Todo 
+            {
+               data = value;
             }
         }
         #endregion

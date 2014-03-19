@@ -7,6 +7,7 @@ C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debu
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotView.pdb
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\bin\Debug\RobotCtrl.pdb
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.Form1.resources
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.Properties.Resources.resources
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.csproj.GenerateResource.Cache
 C:\Users\Carlo\Documents\HSLU EDU\CSA\RoboterSolution\Robot\TestConsole\obj\Debug\TestConsole.exe
